@@ -38,8 +38,9 @@ https://www.youtube.com/watch?v=HGY1uDPUY5g
 
 ## 4. Contact
 
-Email - dongyunye05@gmail.com
-
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/> - dongyunye05@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:dongyunye05@gmail.com)](mailto:dongyunye05@gmail.com)
+	
 <!--
 **OSS-dongyun/OSS-dongyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
