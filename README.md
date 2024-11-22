@@ -18,8 +18,10 @@
 [4. Contact](#4-Contact)
 
 ## 1. Introduction
+Name: 예동윤/dongyunye
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OSS-dongyun)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 2. Tech Stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSS-dongyun&layout=compact)](https://github.com/OSS-dongyun/github-readme-stats)
