@@ -20,7 +20,11 @@
 ## 1. Introduction
 중앙대학교 예술공학부 24학번 예동윤
 
+저는 문제 해결에 대한 열정과 창의적인 접근 방식을 가지고 있는 사람입니다. 복잡한 문제를 단순화하고, 효율적인 솔루션을 찾아내는 데 즐거움을 느낍니다. 개발뿐만 아니라, 리더십과 문제 해결 능력을 발전시켜, 조직 내에서 중요한 결정을 내리는 역할을 맡는 것이 제 목표입니다. 또한 새로운 기술을 배우고 적용하는 데 있어 끊임없이 도전하며, 업계에 영향을 미칠 수 있는 혁신적인 프로젝트에 참여하고 싶습니다.
+
 CAU A&T 24 Ye Dongyun
+
+I am passionate about problem-solving and have a creative approach to tackling challenges. I enjoy simplifying complex problems and finding efficient solutions. My goal is not only to develop but also to enhance my leadership and problem-solving skills, taking on key decision-making roles within the organization. I am also constantly challenging myself to learn and apply new technologies, with the aim of participating in innovative projects that can make an impact in the industry.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OSS-dongyun)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -38,9 +42,18 @@ https://www.youtube.com/watch?v=HGY1uDPUY5g
 
 ## 4. Contact
 
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/> - dongyunye05@gmail.com
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:dongyunye05@gmail.com)](mailto:dongyunye05@gmail.com)
-	
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+
+: dongyunye05@gmail.com
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+
+: @dongyun._.0214
+
+모든 종류의 협업 제안을 환영합니다. 언제든지 연락주세요!
+
+All kinds of collaboration offers are welcome. Feel free to reach out anytime!
+
 <!--
 **OSS-dongyun/OSS-dongyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
