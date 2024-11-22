@@ -18,17 +18,27 @@
 [4. Contact](#4-Contact)
 
 ## 1. Introduction
-Name: 예동윤/dongyunye
+중앙대학교 예술공학부 24학번 예동윤
+
+CAU A&T 24 Ye Dongyun
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OSS-dongyun)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ## 2. Tech Stack
+Python, C++
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSS-dongyun&layout=compact)](https://github.com/OSS-dongyun/github-readme-stats)
 
 ## 3. Project
+[TARA] - "Building a Game Character System with Free Will"
+
+![image](https://github.com/user-attachments/assets/8cb4e9e9-a817-4945-b6e6-6067a97bd481)
+
+https://www.youtube.com/watch?v=HGY1uDPUY5g
 
 ## 4. Contact
+
+Email - dongyunye05@gmail.com
 
 <!--
 **OSS-dongyun/OSS-dongyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
