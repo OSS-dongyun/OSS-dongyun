@@ -11,8 +11,22 @@
 ## 목차
 [1. Introduction](#1-Introduction)
 
+[2. Tech Stack](#2-Tech-Stack)
+
+[3. Project](#3-Project)
+
+[4. Contact](#4-Contact)
+
 ## 1. Introduction
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OSS-dongyun)](https://github.com/anuraghazra/github-readme-stats)
+
+## 2. Tech Stack
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSS-dongyun&layout=compact)](https://github.com/OSS-dongyun/github-readme-stats)
+
+## 3. Project
+
+## 4. Contact
 
 <!--
 **OSS-dongyun/OSS-dongyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,10 +45,5 @@ Here are some ideas to get you started:
 
 
 
-예동윤
-- 중앙대학교 예술공학부 24학번
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OSS-dongyun)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSS-dongyun&layout=compact)](https://github.com/OSS-dongyun/github-readme-stats)
 
