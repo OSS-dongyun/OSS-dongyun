@@ -25,7 +25,7 @@ CAU A&T 24 Ye Dongyun
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OSS-dongyun)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 2. Tech Stack
-Python, C++
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSS-dongyun&layout=compact)](https://github.com/OSS-dongyun/github-readme-stats)
 
